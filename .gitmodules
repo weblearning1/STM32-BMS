@@ -1,0 +1,6 @@
+[submodule "PC_Software"]
+	path = PC_Software
+	url = https://github.com/weblearning1/STM32-BMS_PCSoftware
+[submodule "Firmware"]
+	path = Firmware
+	url = https://github.com/weblearning1/STM32-BMS_Firmware
